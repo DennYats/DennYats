@@ -1,3 +1,5 @@
 # 👋 Hi, I’m Denys
 
-:computer: Stack: **Angular/TS**, **C#/F#**, **Azure**
+💻 Stack: **Angular/TS**, **C#/F#**, **Azure** <br>
+⌨️ Currently focused on: **F#*** learning <br>
+💓 Interested in: **AI** & **Algorithms**<!--, Blockchain & DeFi-->
