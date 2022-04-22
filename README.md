@@ -11,4 +11,4 @@
 -->
 
 ## My Statistics
-![Denny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennYats&show_icons=true&count_private=true&theme=github_dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dyats&show_icons=true&count_private=true&theme=github_dark)
