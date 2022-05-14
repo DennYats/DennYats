@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Denys
 
 💻 Stack: **Angular/TS**, **C#/F#**, **Azure** <br>
-⌨️ Currently focused on: **F#** & **Python** learning <br>
-💓 Interested in: **AI** & **Algorithms**<!--, Blockchain & DeFi--><br>
+💓 Interested in: **AI** & **Algorithms**, **Blockchain** & **DeFi**
+<!--⌨️ Currently focused on: **F#** & **Python** learning <br>-->
 
 <!--
 ## My Projects
