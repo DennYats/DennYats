@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Denys
+<!--# 👋 Hi, I’m Denys-->
 
 <!--💻 Stack: **Angular/TS**, **.NET (C#/F#)**, **Azure** <br>
 💓 Interested in: **AI** & **Algorithms**, **Blockchain** & **DeFi**
